@@ -93,6 +93,7 @@ Project Report
 The detailed report of all tasks is included in the repository.
 
  File: `report/Project_Report.pdf`
+https://github.com/Akshith-Mushkam/Digital-Literacy/blob/main/DIGITAL%20LITERACY%20PROJECT%20REPORT%20.........1.docx
 
  Tools & Platforms Used
 - Canva  
