@@ -87,6 +87,7 @@ Prevention Checklist
 https://github.com/Akshith-Mushkam/Digital-Literacy/blob/main/TASK-5%20PHIISHING%20CASE%20STUDY%20.txt
 
  Stay safe online
+https://github.com/Akshith-Mushkam/Digital-Literacy/blob/main/TASK-5%20Stay%20Safe%20Online%20%E2%80%93%20Prevention%20Check%201.txt
 
 Project Report
 The detailed report of all tasks is included in the repository.
