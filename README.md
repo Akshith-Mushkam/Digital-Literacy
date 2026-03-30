@@ -69,6 +69,7 @@ Request for assignment extension
 https://github.com/Akshith-Mushkam/Digital-Literacy/blob/main/Task-4%20Subject%20Request%20for%20Assignment%20Dead%201.txt
 
 Internship application email 
+https://github.com/Akshith-Mushkam/Digital-Literacy/blob/main/Task-4%20Subject%20Application%20for%20Summer%20Inte%202.txt
 
 Social Media Do’s and Don’ts checklist  
 
