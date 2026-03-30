@@ -72,6 +72,7 @@ Internship application email
 https://github.com/Akshith-Mushkam/Digital-Literacy/blob/main/Task-4%20Subject%20Application%20for%20Summer%20Inte%202.txt
 
 Social Media Do’s and Don’ts checklist  
+https://github.com/Akshith-Mushkam/Digital-Literacy/blob/main/TASK-4%20SOCIAL%20MEDIA%20CHECKLISTDO%E2%80%99s%201.txt
 
  Task 5 – Cybercrime Awareness
 Case Study
