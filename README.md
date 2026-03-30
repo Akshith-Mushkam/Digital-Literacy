@@ -65,7 +65,11 @@ RESPONSE
 - Created a Social Media Do’s and Don’ts checklist  
 
  Files:  
+Request for assignment extension  
 
+Internship application email 
+
+Social Media Do’s and Don’ts checklist  
 
  Task 5 – Cybercrime Awareness
 Case Study
@@ -76,7 +80,9 @@ Prevention Checklist
 - Created a checklist with safety tips including UPI safety and reporting methods  
 
  Files:  
+ Phishing
 
+ Stay safe online
 
 Project Report
 The detailed report of all tasks is included in the repository.
